@@ -1,2 +1,2 @@
 # SistemOperasi
-Jadi Gini!
+
