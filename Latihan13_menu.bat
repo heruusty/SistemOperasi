@@ -1,11 +1,10 @@
 @echo off
-:begin
+:aku
 cls
 echo Menu Program
 echo 1. Hello
 echo 2.System Info
 echo 3. Exit 
-echo 4. dddd
 
 set /p pilihan= piluh menu :
 
@@ -23,7 +22,7 @@ echo =====================================
 echo selamat datang
 echo hi, Selamat datang
 pause
-goto begin 
+goto aku
 
 :2
 cls 

@@ -1,7 +1,6 @@
-echo off
+@echo off
 title setting my computer
 :setting
-color 9 
 cls
 echo =================================
 echo        setting komputerku
